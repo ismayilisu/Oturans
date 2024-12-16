@@ -1,0 +1,41 @@
+name: oturans
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_maps_flutter: ^2.1.0
+
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  flutter_plugin_android_lifecycle: ^2.0.23
+  cloud_firestore: ^5.5.0
+  firebase_messaging: ^15.1.5
+
+  uuid: ^4.5.1
+  http: ^1.2.2
+
+  ntp: ^2.0.0
+  firebase_app_check: ^0.3.1+7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/img/
+  fonts:
+    - family: Sour
+      fonts:
+        - asset: assets/fonts/SourGummy-Italic-VariableFont_wdth,wght.ttf
+        - asset: assets/fonts/SourGummy-VariableFont_wdth,wght.ttf

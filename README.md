@@ -1,2 +1,3 @@
-# Oturans
-A cab sharing App for Nitc students
+# oturans
+
+A new Flutter project.
