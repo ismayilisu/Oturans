@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198057438508",
+    "project_id": "oturans-af119",
+    "storage_bucket": "oturans-af119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198057438508:android:15d499a6f2bf6b53495089",
+        "android_client_info": {
+          "package_name": "com.example.oturans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgFzsyUAuEm17TTL5584_wV11b1TdyAOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
